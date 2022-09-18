@@ -1,0 +1,209 @@
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': 'cc288130631b425'}
+DEBUG	HH:MM:SS > POST API response: {'token': 'cc288130631b425'}
+INFO	HH:MM:SS > Login with session ID token=cc288130631b425
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': 'd8567ed107b1d1a'}
+DEBUG	HH:MM:SS > POST API response: {'token': 'd8567ed107b1d1a'}
+INFO	HH:MM:SS > Login with session ID token=d8567ed107b1d1a
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': 'f7361112bb2b75c'}
+DEBUG	HH:MM:SS > POST API response: {'token': 'f7361112bb2b75c'}
+INFO	HH:MM:SS > Login with session ID token=f7361112bb2b75c
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': 'c2b68a54a80c797'}
+DEBUG	HH:MM:SS > POST API response: {'token': 'c2b68a54a80c797'}
+INFO	HH:MM:SS > Login with session ID token=c2b68a54a80c797
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': 'a50f061501b3175'}
+DEBUG	HH:MM:SS > POST API response: {'token': 'a50f061501b3175'}
+INFO	HH:MM:SS > Login with session ID token=a50f061501b3175
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+INFO	HH:MM:SS > The search request is {'checkin': datetime.date(2022, 7, 10), 'checkout': datetime.date(2022, 8, 27)}
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/booking
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': '2878c12f13db84f'}
+DEBUG	HH:MM:SS > POST API response: {'token': '2878c12f13db84f'}
+INFO	HH:MM:SS > Login with session ID token=2878c12f13db84f
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+INFO	HH:MM:SS > The search request is {'checkin': datetime.date(2022, 7, 10), 'checkout': datetime.date(2022, 8, 27)}
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/booking
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': '4b0c77bee6eca34'}
+DEBUG	HH:MM:SS > POST API response: {'token': '4b0c77bee6eca34'}
+INFO	HH:MM:SS > Login with session ID token=4b0c77bee6eca34
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+INFO	HH:MM:SS > The search request is {'checkin': datetime.date(2022, 7, 10), 'checkout': datetime.date(2022, 8, 27)}
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/booking
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': '0ded8bb6ebfd6d1'}
+DEBUG	HH:MM:SS > POST API response: {'token': '0ded8bb6ebfd6d1'}
+INFO	HH:MM:SS > Login with session ID token=0ded8bb6ebfd6d1
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': '851040162357363'}
+DEBUG	HH:MM:SS > POST API response: {'token': '851040162357363'}
+INFO	HH:MM:SS > Login with session ID token=851040162357363
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': '0d30e1ed40bcc40'}
+DEBUG	HH:MM:SS > POST API response: {'token': '0d30e1ed40bcc40'}
+INFO	HH:MM:SS > Login with session ID token=0d30e1ed40bcc40
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': '30543458df47295'}
+DEBUG	HH:MM:SS > POST API response: {'token': '30543458df47295'}
+INFO	HH:MM:SS > Login with session ID token=30543458df47295
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': '7ada1d36b68e388'}
+DEBUG	HH:MM:SS > POST API response: {'token': '7ada1d36b68e388'}
+INFO	HH:MM:SS > Login with session ID token=7ada1d36b68e388
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': '58b35adfa7cc0de'}
+DEBUG	HH:MM:SS > POST API response: {'token': '58b35adfa7cc0de'}
+INFO	HH:MM:SS > Login with session ID token=58b35adfa7cc0de
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': 'f74a9e474108430'}
+DEBUG	HH:MM:SS > POST API response: {'token': 'f74a9e474108430'}
+INFO	HH:MM:SS > Login with session ID token=f74a9e474108430
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+INFO	HH:MM:SS > The search request is {'checkin': datetime.date(2022, 7, 10), 'checkout': datetime.date(2022, 8, 27)}
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/booking
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': '44bc7a264747ee2'}
+DEBUG	HH:MM:SS > POST API response: {'token': '44bc7a264747ee2'}
+INFO	HH:MM:SS > Login with session ID token=44bc7a264747ee2
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+INFO	HH:MM:SS > The search request is {'checkin': '2022-07-10', 'checkout': '2022-08-27'}
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/booking
+INFO	HH:MM:SS > get_booking_id_by_filter::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/booking, Responce Json [{'bookingid': 249}, {'bookingid': 5534}, {'bookingid': 8827}, {'bookingid': 9279}, {'bookingid': 6261}, {'bookingid': 9272}, {'bookingid': 1400}, {'bookingid': 9632}, {'bookingid': 10279}, {'bookingid': 9856}, {'bookingid': 1377}, {'bookingid': 9256}, {'bookingid': 8974}, {'bookingid': 6332}, {'bookingid': 9831}, {'bookingid': 9750}, {'bookingid': 9380}, {'bookingid': 214}, {'bookingid': 8802}, {'bookingid': 9261}, {'bookingid': 9507}]
+DEBUG	HH:MM:SS > POST API response: [{'bookingid': 249}, {'bookingid': 5534}, {'bookingid': 8827}, {'bookingid': 9279}, {'bookingid': 6261}, {'bookingid': 9272}, {'bookingid': 1400}, {'bookingid': 9632}, {'bookingid': 10279}, {'bookingid': 9856}, {'bookingid': 1377}, {'bookingid': 9256}, {'bookingid': 8974}, {'bookingid': 6332}, {'bookingid': 9831}, {'bookingid': 9750}, {'bookingid': 9380}, {'bookingid': 214}, {'bookingid': 8802}, {'bookingid': 9261}, {'bookingid': 9507}]
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': 'db6eb14fc2dcece'}
+DEBUG	HH:MM:SS > POST API response: {'token': 'db6eb14fc2dcece'}
+INFO	HH:MM:SS > Login with session ID token=db6eb14fc2dcece
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': '3c5137f0e7f0a7c'}
+DEBUG	HH:MM:SS > POST API response: {'token': '3c5137f0e7f0a7c'}
+INFO	HH:MM:SS > Login with session ID token=3c5137f0e7f0a7c
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': 'f13e9a77bb291f8'}
+DEBUG	HH:MM:SS > POST API response: {'token': 'f13e9a77bb291f8'}
+INFO	HH:MM:SS > Login with session ID token=f13e9a77bb291f8
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': 'fa1835279e67cbf'}
+DEBUG	HH:MM:SS > POST API response: {'token': 'fa1835279e67cbf'}
+INFO	HH:MM:SS > Login with session ID token=fa1835279e67cbf
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': 'c6773f876ceea1f'}
+DEBUG	HH:MM:SS > POST API response: {'token': 'c6773f876ceea1f'}
+INFO	HH:MM:SS > Login with session ID token=c6773f876ceea1f
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': '5ce4fe82e286064'}
+DEBUG	HH:MM:SS > POST API response: {'token': '5ce4fe82e286064'}
+INFO	HH:MM:SS > Login with session ID token=5ce4fe82e286064
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ------------login to the application------------
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/auth
+WARN	HH:MM:SS > No auth is been set for request
+INFO	HH:MM:SS > login_to_application::Expected 200, Actual Status code : 200 for URL: https://restful-booker.herokuapp.com/auth, Responce Json {'token': 'fe5537cbe4ad434'}
+DEBUG	HH:MM:SS > POST API response: {'token': 'fe5537cbe4ad434'}
+INFO	HH:MM:SS > Login with session ID token=fe5537cbe4ad434
+DEBUG	HH:MM:SS > The config file path is C:\Users\vhassana\automation\Arthrex\main\src\lib\project_config\config.ini
+INFO	HH:MM:SS > ---------------get booking details by filter-----------
+INFO	HH:MM:SS > The search request is {'checkin': datetime.date(2022, 7, 10), 'checkout': datetime.date(2022, 8, 27)}
+INFO	HH:MM:SS > The URL is https://restful-booker.herokuapp.com/booking
