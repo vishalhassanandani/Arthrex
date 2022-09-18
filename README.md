@@ -17,9 +17,9 @@ Robot Framework is a generic open source automation framework. This framework is
 * Install the custom package python setup.py install
 * 
 ## To Run the tests
-For a simple run of all the test files in normal mode, try
+To understand how to run puthon testcase refere document at https://dev.to/juperala/how-to-run-robot-framework-test-from-command-line-5aa
 
-go to the project folder & execute command below mention in https://dev.to/juperala/how-to-run-robot-framework-test-from-command-line-5aa
+for simple run,go to the project folder & execute command below mention in 
 
 
 ```
@@ -34,25 +34,10 @@ For better illustration on the testcases, reports has been generated under the `
 
 
 ## Creating a test file
-* Tests can be created directly within the `main/test/API/ or main/test/UI/` folder with the file prefix as `test_` so that those files alone will be taken during test run. This is configured in `pytest.ini` file.
-
-### Simple test case with an endpoint
-
-The application host can be updated from 'main/src/lib/project_config/config.ini' 
-we can switch between multiples environment by switching the environment from config file
-
-```
-Api.get("/name")
-Api.verify_response_code(200)
-```
-On calling only these two methods from the `Api` library, all the allure report actions, attaching the request and the response file to the reports, and asserting the response code of the response is taken care off.
-
-### Simple test case with validating the response with test data
-
-To validate the response json with a test data, one could do the following,
+* Tests can be created directly within the `main/test/API/ or main/test/UI/` folder 
 
  
-### Booking Test cases 
+### Booking application Test cases 
 booker assignment testcase can be found at 'main/test/API/booking.robot'
 
 1. Login to the application
@@ -76,7 +61,7 @@ booker assignment testcase can be found at 'main/test/API/booking.robot'
   search the booking base of filter
   validate that you get the expected booking id
 
-5.get booking details by checkin and checkout dates (Note: teas case is failing as there is issue with application)
+5.get booking details by checkin and checkout dates (Note: not able to set date object in json)
   generate the filter data by checkin & checkout date
   search the booking base of filter
   validate that you get the expected booking id
