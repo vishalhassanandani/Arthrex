@@ -24,7 +24,7 @@ go to the project folder & execute command below mention in https://dev.to/juper
 
 ```
 robot [options] robot_files
-robot -d result -t All main/test/dataops/API
+robot -d result -t All main/test/API
 ```
 
 
